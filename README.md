@@ -27,3 +27,6 @@ Made by [@cbracco](http://cbracco.me). This project is based on the [test file](
 [x] Task1
 [] Task2
 [] Task3
+```
+<script type="text/javascript src="main.js">Enable Javascript so this page works properly</script>
+```
