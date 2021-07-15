@@ -23,3 +23,7 @@ Made by [@cbracco](http://cbracco.me). This project is based on the [test file](
 ## [Contributing](CONTRIBUTING.md)
 
 ## [License](LICENSE)
+
+[x] Task1
+[] Task2
+[] Task3
